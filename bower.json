@@ -5,7 +5,7 @@
     "maztch <maztch@gmail.com>"
   ],
   "description": "helper for ga (analytics) events",
-  "main": "track.js",
+  "main": "tracker.js",
   "moduleType": [
     "globals"
   ],
