@@ -10,7 +10,7 @@
     "globals"
   ],
   "dependencies": {
-    "jquery": "~1.11.0",
+    "jquery": "~1.11.0"
   },
   "keywords": [
     "analytics",
@@ -19,7 +19,7 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/maztch/tracker.git"
-  }
+  },
   "license": "MIT",
   "homepage": "http://maztch.es",
   "ignore": [
