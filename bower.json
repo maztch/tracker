@@ -1,0 +1,32 @@
+{
+  "name": "tracker",
+  "version": "0.0.1",
+  "authors": [
+    "maztch <maztch@gmail.com>"
+  ],
+  "description": "helper for ga (analytics) events",
+  "main": "track.js",
+  "moduleType": [
+    "globals"
+  ],
+  "dependencies": {
+    "jquery": "~1.11.0",
+  },
+  "keywords": [
+    "analytics",
+    "events"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maztch/tracker.git"
+  }
+  "license": "MIT",
+  "homepage": "http://maztch.es",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
