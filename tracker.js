@@ -27,7 +27,7 @@
 		options.use_sel = options.use_sel || false;
 		return this.each(function(){
 			$(this).click(function(e){
-				e.preventDefault();
+				//e.preventDefault();
 				if(options.use !== false){
 					if(options.use_sel!==false){
 						console.log('set label using '+options.use+' element '+options.use_sel);
